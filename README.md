@@ -1,0 +1,2 @@
+# GzhuGradesCrawler
+广州大学教务系统个人在校学习成绩爬虫
